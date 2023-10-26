@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: "Twoje Taxi Chodzież",
+      title: "Twoje Taxi Chodzież - taksówki w okolicach Chodzieży",
       htmlAttrs: {
         lang: "pl",
       },
@@ -17,7 +17,7 @@ export default defineNuxtConfig({
         {
           name: "description",
           content:
-            "Strona startowa firmy taksówkarskiej działającej w okolicach Chodzieży",
+            "Strona startowa firmy taksówkarskiej działającej w okolicach Chodzieży. Przewóz osób po cenie indywidualnej",
         },
       ],
       link: [

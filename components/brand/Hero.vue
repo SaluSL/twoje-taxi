@@ -48,7 +48,7 @@
           </p>
         </blockquote>
         <img
-          src="taxi-banner.svg"
+          src="/taxi-banner.svg"
           width="600"
           class="rounded-xl"
           alt="Klient z telefonem w dłoni zamawiający taksówkę. Żólta taksówka w tle."

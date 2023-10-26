@@ -2,17 +2,12 @@
   <header class="shadow-sm fixed w-full bg-gray-900">
     <nav class="container mx-auto p-4 flex justify-between items-center">
       <NuxtLink to="/">
-        <!-- <img
-          id="planimbly-logo-dark"
-          src="planimbly-white.svg"
-          class="w-40 h-auto"
-          alt="Logotyp marki planimbly"
-        /> -->
         <BrandLogo />
       </NuxtLink>
       <ul class="flex gap-4 justify-center items-center">
         <li>
-          <button
+          <a
+            href="tel:+48508978240"
             class="flex gap-3 py-2 px-4 bg-yellow-400 rounded-md font-medium text-sm items-center group text-gray-900 hover:bg-yellow-600"
           >
             <svg
@@ -28,13 +23,7 @@
               />
             </svg>
             Zadzwoń teraz
-          </button>
-          <!-- <UButton
-            icon="i-heroicons-phone-solid"
-            label="Zadzwoń teraz"
-            size="md"
-            to="/schedule"
-          /> -->
+          </a>
         </li>
       </ul>
     </nav>
