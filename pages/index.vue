@@ -16,7 +16,7 @@
               clip-rule="evenodd"
             />
           </svg> </template
-        >Chcesz jechać na Na lotnisko, na dworzec PKP, do Poznania, Bydgoszczy,
+        >Chcesz jechać na lotnisko, na dworzec PKP, do Poznania, Bydgoszczy,
         Piły, Wągrowca czy Szamocina? Gdzie tylko Chcesz. Zawieziemy,
         przywieziemy. Pomożemy.</BrandFeature
       >
