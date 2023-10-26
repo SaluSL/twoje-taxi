@@ -27,9 +27,7 @@
       <div
         class="flex flex-wrap gap-16 mt-16 md:mt-32 items-center justify-center px-4"
       >
-        <blockquote
-          class="text-xl italic font-semibold text-gray-900 dark:text-white"
-        >
+        <blockquote class="text-xl italic font-semibold text-white">
           <svg
             class="w-8 h-8 text-gray-400 dark:text-gray-600 mb-4"
             aria-hidden="true"
