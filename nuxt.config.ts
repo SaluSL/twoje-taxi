@@ -17,7 +17,7 @@ export default defineNuxtConfig({
         {
           name: "description",
           content:
-            "Firma taksówkarska działająca w okolicach Chodzieży. Przewóz osób po cenie indywidualnej",
+            "Taksówki w okolicach Chodzieży i nie tylko. Dostępność 24h/7. Przewóz osób po cenie indywidualnej.",
         },
       ],
       link: [
