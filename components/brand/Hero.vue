@@ -1,14 +1,22 @@
 <template>
   <div class="w-full text-center">
     <h1 class="text-center text-6xl font-semibold">
-      Twoje taxi <span class="text-white">24h/7</span> w Chodzieży!
+      Twoje Taxi <span class="text-white">24h/7</span>
     </h1>
     <br />
-    <h2 class="text-center text-4xl font-semibold mb-6 mt-2 text-white">
-      Zadzwoń pod numer:
+    <h2 class="text-center text-4xl font-semibold mb-6 mt-2">
+      Chodzież i okolice
     </h2>
-    <div class="flex flex-col justify-center items-center">
+    <br />
+    <label
+      for="big-cta"
+      class="text-center text-4xl font-semibold mt-2 text-white"
+    >
+      Zadzwoń pod numer:
+    </label>
+    <div class="flex flex-col justify-center items-center mt-6">
       <a
+        id="big-cta"
         href="tel:+48508978240"
         class="hover:bg-yellow-600 text-4xl md:text-6xl px-2 py-1 border rounded-xl flex items-center gap-2 w-fit bg-yellow-400 text-gray-900 justify-center"
         ><svg
@@ -27,7 +35,7 @@
       <div
         class="flex flex-wrap gap-16 mt-16 md:mt-32 items-center justify-center px-4"
       >
-        <blockquote class="text-xl italic font-semibold text-white">
+        <blockquote class="text-3xl italic font-semibold text-white">
           <svg
             class="w-8 h-8 text-gray-400 dark:text-gray-600 mb-4"
             aria-hidden="true"
