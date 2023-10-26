@@ -1,6 +1,6 @@
 <template>
   <footer class="border-t border-gray-500 container mx-auto p-4 mt-32">
-    <div class="flex justify-between gap-16">
+    <div class="flex justify-between gap-8 md:gap-16">
       <span class="whitespace-nowrap text-gray-200">
         Twoje Taxi Chodzież &copy {{ currYear() }}
       </span>
@@ -32,12 +32,14 @@
             </a>
           </li>
           <li>
-            <NuxtLink to="/" class="text-blue-200 underline"
+            <NuxtLink to="/" class="text-blue-200 underline whitespace-nowrap"
               >Strona główna
             </NuxtLink>
           </li>
           <li>
-            <a href="tel:+48508978240" class="text-blue-200 underline"
+            <a
+              href="tel:+48508978240"
+              class="text-blue-200 underline whitespace-nowrap"
               >Zadzwoń teraz</a
             >
           </li>
