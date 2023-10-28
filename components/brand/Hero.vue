@@ -33,7 +33,7 @@
         ><span class="text-gray-900">508 978 240</span></a
       >
       <div
-        class="flex flex-wrap gap-16 mt-16 md:mt-32 items-center justify-center px-4"
+        class="flex flex-wrap gap-16 mt-16 md:mt-32 items-center justify-center md:px-4"
       >
         <blockquote class="text-3xl italic font-semibold text-white">
           <svg
@@ -54,10 +54,9 @@
           </p>
         </blockquote>
         <img
-          src="/taxi-banner.svg"
-          width="600"
+          src="/taxi-banner.jpg"
           class="rounded-xl"
-          alt="Klient z telefonem w dłoni zamawiający taksówkę. Żólta taksówka w tle."
+          alt="Żółta taksówka ze znakiem TAXI na dachu, jadąca tunelem. Napis na zdjęciu: „Twoje Taxi - Twój Anioł Stróż Rano, wieczorem, w dzień i po nocy jesteśmy Tobie do pomocy. 24h/7 508-978-240”"
         />
       </div>
     </div>
@@ -66,4 +65,9 @@
 
 <script setup></script>
 
-<style scoped></style>
+<style scoped>
+img {
+  width: 800px;
+  height: auto;
+}
+</style>
