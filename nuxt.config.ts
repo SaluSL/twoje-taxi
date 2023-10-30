@@ -17,7 +17,7 @@ export default defineNuxtConfig({
         {
           name: "description",
           content:
-            "Taksówki w okolicach Chodzieży i nie tylko. Dostępność 24h/7. Przewóz osób po cenie indywidualnej.",
+            "Twoje Taxi Chodzież - Taksówki w okolicach Chodzieży i nie tylko. Dostępność 24h/7.",
         },
       ],
       link: [
