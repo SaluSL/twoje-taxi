@@ -54,7 +54,7 @@
           </p>
         </blockquote>
         <img
-          src="/taxi-banner.jpg"
+          src="/taxi-banner.jpeg"
           class="rounded-xl"
           alt="Żółta taksówka ze znakiem TAXI na dachu, jadąca tunelem. Napis na zdjęciu: „Twoje Taxi - Twój Anioł Stróż Rano, wieczorem, w dzień i po nocy jesteśmy Tobie do pomocy. 24h/7 508-978-240”"
         />
